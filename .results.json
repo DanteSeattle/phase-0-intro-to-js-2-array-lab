@@ -5,9 +5,9 @@
     "passes": 9,
     "pending": 0,
     "failures": 0,
-    "start": "2021-04-01T20:32:54.096Z",
-    "end": "2021-04-01T20:32:54.353Z",
-    "duration": 257
+    "start": "2021-04-06T17:24:54.985Z",
+    "end": "2021-04-06T17:24:55.246Z",
+    "duration": 261
   },
   "tests": [
     {
@@ -20,7 +20,7 @@
     {
       "title": "appends a cat to the end of the cats array",
       "fullTitle": "index.js Array functions destructivelyAppendCat(name) appends a cat to the end of the cats array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -34,7 +34,7 @@
     {
       "title": "removes the last cat from the cats array",
       "fullTitle": "index.js Array functions destructivelyRemoveLastCat() removes the last cat from the cats array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -48,7 +48,7 @@
     {
       "title": "appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions appendCat(name) appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -87,7 +87,7 @@
     {
       "title": "appends a cat to the end of the cats array",
       "fullTitle": "index.js Array functions destructivelyAppendCat(name) appends a cat to the end of the cats array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -101,7 +101,7 @@
     {
       "title": "removes the last cat from the cats array",
       "fullTitle": "index.js Array functions destructivelyRemoveLastCat() removes the last cat from the cats array",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -115,7 +115,7 @@
     {
       "title": "appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
       "fullTitle": "index.js Array functions appendCat(name) appends a cat to the cats array and returns a new array, leaving the cats array unchanged",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
